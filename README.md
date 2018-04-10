@@ -6,8 +6,13 @@ Quando finalizar o teste, publique tudo no seu [Github](https://github.com) e en
 
 ## Missão backend
 
+
+
 Desenvolver uma **API JSON RESTful** em **Python** ou **.Net** ou **Node** ou **PHP**, que utilize todos os métodos (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`).  
 Faça o teste unitário da **API** (Bônus :star:)
+
+Pode utilizar algum framework para desenvolvimento do backend.
+
 ### Especificação
 
 Monte uma base de veículo com a seguinte estrutura:
@@ -89,6 +94,9 @@ Utilize algum framework para auxiliar no desenvolvimento da interface, por exemp
 - https://getmdl.io/
 - http://getbootstrap.com/css/
 - http://foundation.zurb.com/
+
+
+
 
 ## Dúvida
 
